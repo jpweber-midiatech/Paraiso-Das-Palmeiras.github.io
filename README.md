@@ -37,7 +37,7 @@
   ═══════════════════════════════════════════ -->
   <section class="hero" id="inicio">
     <div class="hero-bg">
-      <!-- Coloque sua foto aqui: substitua o fundo abaixo por uma tag <img> ou background-image no CSS -->
+      <img src="pexels-quang-nguyen-vinh-222549-14036485.jpg" alt="piscina">
       <div class="hero-overlay"></div>
     </div>
     <div class="hero-content">
@@ -63,11 +63,11 @@
     <div class="container sobre-grid">
       <div class="sobre-images">
         <div class="img-frame img-main">
-          <img src="/Banco de imagens/pexels-quang-nguyen-vinh-222549-14036450.jpg" alt="Foto piscina">
+          <img src="pexels-quang-nguyen-vinh-222549-14036450.jpg" alt="Foto piscina">
           <div class="img-placeholder">📸 Foto Principal do Resort</div>
         </div>
         <div class="img-frame img-secondary">
-          <img src="/Banco de imagens/pexels-rachel-claire-4577664.jpg" alt="bangalo balines">
+          <img src="pexels-rachel-claire-4577664.jpg" alt="bangalo balines">
           <div class="img-placeholder small">📸 Bungalô Balinês</div>
         </div>
         <div class="badge-award">
@@ -116,7 +116,7 @@
 
         <div class="servico-card">
           <div class="servico-img">
-            <img src="/Banco de imagens/pexels-roman-odintsov-4869328.jpg" alt="lagosta prato">
+            <img src="pexels-roman-odintsov-4869328.jpg" alt="lagosta prato">
             <div class="img-placeholder">📸 Restaurante</div>
           </div>
           <div class="servico-body">
@@ -127,7 +127,7 @@
 
         <div class="servico-card destaque">
           <div class="servico-img">
-            <img src="Banco de imagens/pexels-quang-nguyen-vinh-222549-14036485.jpg" alt="piscina">
+            <img src="pexels-quang-nguyen-vinh-222549-14036485.jpg" alt="piscina">
             <div class="img-placeholder">📸 Piscina Vista Mar</div>
           </div>
           <div class="servico-body">
@@ -138,7 +138,7 @@
 
         <div class="servico-card">
           <div class="servico-img">
-            <img src="/Banco de imagens/pexels-norma-alejandra-norma-55232340-33234817.jpg" alt="">
+            <img src="pexels-norma-alejandra-norma-55232340-33234817.jpg" alt="">
             <div class="img-placeholder">📸 Convenções</div>
           </div>
           <div class="servico-body">
@@ -162,7 +162,7 @@
 
         <div class="acom-card">
           <div class="acom-img">
-            <img src="/Banco de imagens/pexels-balazsimon-7368344.jpg" alt="quarto com vista mar">
+            <img src="pexels-balazsimon-7368344.jpg" alt="quarto com vista mar">
             <div class="img-placeholder">📸 Quarto Luxo</div>
           </div>
           <div class="acom-body">
@@ -183,7 +183,7 @@
         <div class="acom-card featured">
           <div class="acom-badge">Mais Procurado</div>
           <div class="acom-img">
-            <img src="/Banco de imagens/pexels-rachel-claire-4577664.jpg" alt="bangalo balines">
+            <img src="pexels-rachel-claire-4577664.jpg" alt="bangalo balines">
             <div class="img-placeholder">📸 Bungalô Balinês</div>
           </div>
           <div class="acom-body">
@@ -203,7 +203,7 @@
 
         <div class="acom-card">
           <div class="acom-img">
-            <img src="/Banco de imagens/pexels-ahmetcotur-29702286.jpg" alt="quarto com varanda">
+            <img src="pexels-ahmetcotur-29702286.jpg" alt="quarto com varanda">
             <div class="img-placeholder">📸 Suíte Master</div>
           </div>
           <div class="acom-body">
@@ -231,19 +231,19 @@
   <section class="galeria">
     <div class="galeria-grid">
       <div class="gal-item tall">
-        <img src="/Banco de imagens/pexels-quang-nguyen-vinh-222549-5041929.jpg" alt="praia">
+        <img src="pexels-quang-nguyen-vinh-222549-5041929.jpg" alt="praia">
         <div class="img-placeholder">📸 Praia Exclusiva</div>
       </div>
       <div class="gal-item">
-        <img src="/Banco de imagens/pexels-inna-linkk-480833623-37508461.jpg" alt="por do sol">
+        <img src="pexels-inna-linkk-480833623-37508461.jpg" alt="por do sol">
         <div class="img-placeholder">📸 Pôr do Sol</div>
       </div>
       <div class="gal-item">
-        <img src="Banco de imagens/pexels-mariya-eskina-555701080-19025564.jpg" alt="vista mar">
+        <img src="pexels-mariya-eskina-555701080-19025564.jpg" alt="vista mar">
         <div class="img-placeholder">📸 Vista do Mar</div>
       </div>
       <div class="gal-item wide">
-        <img src="/Banco de imagens/pexels-quang-nguyen-vinh-222549-14036443.jpg" alt="piscina">
+        <img src="pexels-quang-nguyen-vinh-222549-14036443.jpg" alt="piscina">
         <div class="img-placeholder">📸 Área de Lazer</div>
       </div>
     </div>
